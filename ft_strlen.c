@@ -8,4 +8,4 @@ int	ft_strlen(char *str)
     while(str[k])
         k++;
     return(k);
-}
+} 

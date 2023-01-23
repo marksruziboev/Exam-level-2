@@ -30,4 +30,4 @@ int main()
     ft_strcpy(s1, s2);
     ft_putstr(s1);
     return(0);
-}
+} 
